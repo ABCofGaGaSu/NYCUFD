@@ -1,6 +1,6 @@
 # NYCUFall Dataset
 
-The **NYCUFall** dataset is a multi-viewed depth fall dataset collected in an indoor home environment. Please follow the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/) if you wish to use this dataset.
+The **NYCUFall** is a dataset of multi-view fall videos collected by 6 time-of-flight (ToF) depth cameras (Model 5Z01A, 5Voxel Co., Ltd.) in an indoor home environment. Please follow the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/) if you wish to use this dataset.
 
 
 
