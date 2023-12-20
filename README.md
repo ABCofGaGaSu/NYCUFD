@@ -9,6 +9,22 @@ The **NYCUFall** is a dataset of multi-view fall videos collected by 6 time-of-f
 This dataset contains depth frames captured from different camera perspectives in an indoor environment. The data is organized based on the camera perspective, datetime, and camera index.
 
 
+## Inside This Dataset
+
+* Image size: (H, W)=(172,224)
+* Data type: `uint8`
+
+### Sample Videos
+
+- For **one sample** of **NYCUFall**, please check [here](./assets/NYCUFall_1sample.zip).
+
+
+| Camera ID |   Video   | Camera ID |   Video   |
+|:---------:|:---------:|:---------:|:---------:|
+|ToF_1|<img src="assets/Figures/ToF1_sample01.gif" width="224" height="172"/>|ToF_2|<img src="assets/Figures/ToF2_sample01.gif" width="224" height="172"/>|
+|ToF_3|<img src="assets/Figures/ToF3_sample01.gif" width="224" height="172"/>|ToF_4|<img src="assets/Figures/ToF4_sample01.gif" width="224" height="172"/>|
+|ToF_5|<img src="assets/Figures/ToF5_sample01.gif" width="224" height="172"/>|ToF_6|<img src="assets/Figures/ToF6_sample01.gif" width="224" height="172"/>|
+
 
 ## Directory Hierarchy
 
@@ -88,7 +104,7 @@ Commercial use of this dataset or any part thereof is strictly prohibited withou
 
 ## Citation
 
-This work is now under peer-review process.
+The manuscript of this work is preparing.
 
 Please cite the dataset using the appropriate reference when using it in your work. You may find the citation information in the dataset documentation.
 
