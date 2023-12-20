@@ -16,7 +16,7 @@ This dataset contains depth frames captured from different camera perspectives i
 
 ### Sample Videos
 
-<!-- - For **one sample** of **NYCUFall**, please check [here](./assets/NYCUFall_1sample.zip). -->
+- For **one sample** of **NYCUFall**, please check [here](https://nycu1-my.sharepoint.com/:f:/g/personal/celee_m365_nycu_edu_tw/Ekaevv3Pf7BJuZkLn2PdPlgBBahzThfkfE9FynSumq_H9Q?e=2WRidD).
 
 
 | Camera ID |   Video   | Camera ID |   Video   |
